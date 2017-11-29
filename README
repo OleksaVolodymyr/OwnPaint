@@ -1,0 +1,18 @@
+Own Paint realization on C++
+
+Functions :
+
+- Pen
+- Line
+- Fill
+- Rectangle
+- Fill rectangle
+- Allocation area
+- Eraser
+- Color picker
+- Oval
+- Text
+
+-Fillters:
+   - Blur
+   - Black and white
